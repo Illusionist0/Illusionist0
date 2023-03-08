@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me ?
 Contact me anytime you want for any question I can answer.
-You can contact me on my school-email:~~U201814681@hust.edu.cn.  ~~
+You can contact me on my school-email:<s>U201814681@hust.edu.cn.</s>
 
 -Update-
 
