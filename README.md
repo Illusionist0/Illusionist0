@@ -2,8 +2,8 @@
 - 👀 I’m interested in CS learning
 - 🌱 I’m currently learning machine learning.
 - 📫 How to reach me ?
-Contact me on 310683184@qq.com anytime you want for any question I can answer.
-Also,you can contact me on my school-email:U201814681@hust.edu.cn.  
+Contact me anytime you want for any question I can answer.
+You can contact me on my school-email:~~U201814681@hust.edu.cn.  ~~
 
 -Update-
 
