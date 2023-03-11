@@ -7,6 +7,8 @@ You can contact me on my school-email:<s>U201814681@hust.edu.cn.</s>
 
 -Update-
 
+- what is github for me?
+^^of course,<s>free movable disk</s>
 
 school mail is not being used now,u can contact me on xzn1028@foxmail.com or xzn1028@gmail.com
 <!---
